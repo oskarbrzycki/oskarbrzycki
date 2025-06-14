@@ -1,6 +1,6 @@
 
 #👋 Hej, jestem Oskar!<br><br>
-##🎓 Jestem studentem pierwszego roku informatyki. Na co dzień rozwijam swoje umiejętności poprzez projekty uczelniane oraz własne inicjatywy, które pozwalają mi uczyć się nowych technologii w praktyce.<br><br>
+##🎓 Jestem studentem pierwszego roku Data Science na Uniwersytecie Gdaskim. Na co dzień rozwijam swoje umiejętności poprzez projekty uczelniane oraz własne inicjatywy, które pozwalają mi uczyć się nowych technologii w praktyce.<br><br>
 ##🚀 Aktualnie pracuję nad:<br>
 -🔧 Projektami akademickimi (Python, C++, R, SQL)<br>
 -💡 Własnymi pomysłami – od prostych aplikacji po bardziej zaawansowane systemy<br>
