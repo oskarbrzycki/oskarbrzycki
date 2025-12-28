@@ -32,14 +32,11 @@ The "Magnifying Glass" for RAG Systems. Stop guessing why your LLM answered the 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oskarbrzycki&show_icons=true&count_private=true&theme=react" alt="Oskar's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarbrzycki&layout=compact&theme=react" alt="Most Used Languages" height="192px" />
-</p>
+![Oskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskarbrzycki&show_icons=true&count_private=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskarbrzycki&theme=react" alt="GitHub Streak" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oskarbrzycki&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oskarbrzycki&theme=dark)
 
 ## GitHub Activity Graph
 
