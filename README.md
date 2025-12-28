@@ -23,20 +23,23 @@
 ## Projects
 
 ### LLM-CelebroScope
-
+z
 The "Magnifying Glass" for RAG Systems. Stop guessing why your LLM answered the way it did. This tool turns AI "black boxes" into transparent, debuggable workflows by tracing every claim back to its source.
 
 [View Project](https://github.com/oskarbrzycki/llm-cerebroscope)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=oskarbrzycki&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oskarbrzycki&show_icons=true&count_private=true&theme=react" alt="Oskar's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarbrzycki&layout=compact&theme=react" alt="Most Used Languages" height="192px" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarbrzycki&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oskarbrzycki&theme=null" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskarbrzycki&theme=react" alt="GitHub Streak" />
+</p>
 
 ## GitHub Activity Graph
 
