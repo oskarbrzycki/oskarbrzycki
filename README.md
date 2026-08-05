@@ -12,12 +12,12 @@
 
 oskar@localhost
 ----------------
-OS: Windows 11 (prod runs in SQL, not in the GUI)
+OS: Windows 11
 Shell: python3 / T-SQL
-Editor: whatever opens fastest
+Editor: fastest one wins
 Languages: Python, SQL, R
 Tools: Power BI, pandas, numpy
-Status: querying...
+Status: grinding, no days off
 
 ```
 
@@ -30,15 +30,14 @@ Status: querying...
 ![Power BI](https://img.shields.io/badge/Power_BI-1a1b27?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![R](https://img.shields.io/badge/R-1a1b27?style=for-the-badge&logo=r&logoColor=276DC3)
 
-No BI dashboard is safe if it can be replaced by a query and a for-loop.
+Full send. Always in the lab, always shipping.
 
 ---
 
 ## featured
 
 ### [llm-cerebroscope](https://github.com/oskarbrzycki/llm-cerebroscope)
-<!-- one-liner below is a placeholder — swap for your real pitch -->
-Poking at how LLMs think from the inside, one probe at a time.
+Forensic-grade RAG platform — local LLM + vector search that cites every answer back to the exact source chunk. Zero hallucinated claims, full audit trail.
 
 ---
 
